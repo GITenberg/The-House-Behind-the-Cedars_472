@@ -1,0 +1,40 @@
+_repo: The-House-Behind-the-Cedars_472
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Chesnutt, Charles W. (Charles Waddell)
+    birthdate: 1858
+    deathdate: 1932
+    gutenberg_agent_id: '252'
+    url: http://www.gutenberg.org/2009/agents/252
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Chesnutt
+description: Although he appeared to most observers to be white, American author Charles
+  Waddell Chestnutt had some African-American ancestry and thus was subjected to the
+  limited opportunities, discrimination, and segregated living conditions that faced
+  African-Americans in the United States throughout his life. An accomplished writer,
+  Chestnutt created The House Behind the Cedars as a means of trying to depict the
+  multidimensional complexity of race relations in the nineteenth-century American
+  South. Recommended for fans of literary realism and social issue novels.
+gutenberg_bookshelf: African American Writers
+gutenberg_issued: '1996-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '472'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Racially mixed people -- Fiction'
+- !lcsh 'Psychological fiction'
+- !lcsh 'Didactic fiction'
+- !lcsh 'African Americans -- Fiction'
+- !lcsh 'African American women -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Passing (Identity) -- Fiction'
+- !lcsh 'Racism -- Fiction'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Southern States -- Fiction'
+- GITenberg
+title: The House Behind the Cedars
+url: http://www.gutenberg.org/ebooks/472
